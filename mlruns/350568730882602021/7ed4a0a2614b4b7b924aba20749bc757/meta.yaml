@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rafatalzakout/Desktop/traning%20/13-11-2024mlflow%20taskMLclass/mlflowdataclass/src/mlruns/350568730882602021/7ed4a0a2614b4b7b924aba20749bc757/artifacts
+end_time: 1731932421762
+entry_point_name: ''
+experiment_id: '350568730882602021'
+lifecycle_stage: active
+run_id: 7ed4a0a2614b4b7b924aba20749bc757
+run_name: AdaBoostClassifier
+run_uuid: 7ed4a0a2614b4b7b924aba20749bc757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731932421731
+status: 3
+tags: []
+user_id: rafatalzakout

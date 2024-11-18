@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rafatalzakout/Desktop/traning%20/13-11-2024mlflow%20taskMLclass/mlflowdataclass/src/mlruns/610030314449559404/b3aab332fbe8458f9191b4cb9fc8d3c7/artifacts
+end_time: 1731511262731
+entry_point_name: ''
+experiment_id: '610030314449559404'
+lifecycle_stage: active
+run_id: b3aab332fbe8458f9191b4cb9fc8d3c7
+run_name: LogisticRegression
+run_uuid: b3aab332fbe8458f9191b4cb9fc8d3c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731511261287
+status: 3
+tags: []
+user_id: rafatalzakout

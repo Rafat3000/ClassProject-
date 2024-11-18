@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rafatalzakout/Desktop/traning%20/13-11-2024mlflow%20taskMLclass/mlflowdataclass/src/mlruns/198363610555518751/e2a12ce435544509af62881064cbdc5f/artifacts
+end_time: 1731680046480
+entry_point_name: ''
+experiment_id: '198363610555518751'
+lifecycle_stage: active
+run_id: e2a12ce435544509af62881064cbdc5f
+run_name: RandomForestClassifier
+run_uuid: e2a12ce435544509af62881064cbdc5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731680046461
+status: 3
+tags: []
+user_id: rafatalzakout

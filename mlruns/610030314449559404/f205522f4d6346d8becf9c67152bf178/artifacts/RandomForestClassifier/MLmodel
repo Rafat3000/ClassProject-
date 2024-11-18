@@ -1,0 +1,34 @@
+artifact_path: RandomForestClassifier
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 46454
+model_uuid: 6212d90af7ee4e6695cf53c3280cfb17
+run_id: f205522f4d6346d8becf9c67152bf178
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "RI", "required": true}, {"type": "double", "name":
+    " Na", "required": true}, {"type": "double", "name": " Mg", "required": true},
+    {"type": "double", "name": " Al", "required": true}, {"type": "double", "name":
+    " Si", "required": true}, {"type": "double", "name": " K", "required": true},
+    {"type": "double", "name": " Ca", "required": true}, {"type": "double", "name":
+    " Ba", "required": true}, {"type": "double", "name": " Fe", "required": true}]'
+  outputs: '[{"type": "string", "required": true}]'
+  params: null
+utc_time_created: '2024-11-13 15:21:03.631539'

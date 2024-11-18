@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rafatalzakout/Desktop/traning%20/13-11-2024mlflow%20taskMLclass/mlflowdataclass/src/mlruns/350568730882602021/e3b5eea7403e46dc96316f81e330f481/artifacts
+end_time: 1731932719016
+entry_point_name: ''
+experiment_id: '350568730882602021'
+lifecycle_stage: active
+run_id: e3b5eea7403e46dc96316f81e330f481
+run_name: KNeighborsClassifier
+run_uuid: e3b5eea7403e46dc96316f81e330f481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731932719005
+status: 3
+tags: []
+user_id: rafatalzakout

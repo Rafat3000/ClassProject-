@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rafatalzakout/Desktop/traning%20/13-11-2024mlflow%20taskMLclass/mlflowdataclass/src/mlruns/198363610555518751/c03e33cfff2b4c7c9a27280a24930c5c/artifacts
+end_time: 1731680319787
+entry_point_name: ''
+experiment_id: '198363610555518751'
+lifecycle_stage: active
+run_id: c03e33cfff2b4c7c9a27280a24930c5c
+run_name: DecisionTreeClassifier
+run_uuid: c03e33cfff2b4c7c9a27280a24930c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731680319780
+status: 3
+tags: []
+user_id: rafatalzakout
